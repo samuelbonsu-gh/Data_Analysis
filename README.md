@@ -12,11 +12,13 @@ Excel, SQL, and Power BI.
 - **Objective:** Analyzed monthly and annual sales data to track revenue, product trends, and regional performance.
 - **Tools Used:** Power BI, Excel and SQL.
 - **Key Insights:** Identified regions with the most revenue generated and products, annual and monthly patterns, and growth opportunities.
+- [ANNUAL SALES PERFORMANCE REPORT FROM 2010 - 2017.pptx](https://github.com/user-attachments/files/19653262/ANNUAL.SALES.PERFORMANCE.REPORT.FROM.2010.-.2017.pptx)
 
 ### 2. Email Deliverability performance for first Quarter (January – March 2023).
 - **Objective:** Investigated the number of mails sent to various mailbox providers, monthly rate at which mail were being delivered.
 - **Tools Used:** Excel, SQL, Power BI.
 - **Key Insights:** Mailbox providers with the most mails being delivered to.
+- [TEMPLATE FOR Internship Project.pptx](https://github.com/user-attachments/files/19653253/TEMPLATE.FOR.Internship.Project.pptx)
 
 ---
 
@@ -41,6 +43,3 @@ Excel, SQL, and Power BI.
 I'm Samuel, an aspiring data analyst passionate about turning raw data into clear, useful insights to support decision-making.
 
 Contact: [kwadwoboatengbonsu@gmail.com]
-
-[TEMPLATE FOR Internship Project.pptx](https://github.com/user-attachments/files/19653253/TEMPLATE.FOR.Internship.Project.pptx)
-[ANNUAL SALES PERFORMANCE REPORT FROM 2010 - 2017.pptx](https://github.com/user-attachments/files/19653262/ANNUAL.SALES.PERFORMANCE.REPORT.FROM.2010.-.2017.pptx)
