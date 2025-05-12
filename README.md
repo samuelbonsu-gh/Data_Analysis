@@ -42,4 +42,4 @@ Excel, SQL, and Power BI.
 ##👤 About Me
 I'm Samuel, an aspiring data analyst passionate about turning raw data into clear, useful insights to support decision-making.
 
-Contact: [kwadwoboatengbonsu@gmail.com]
+Contact: [bonsuboatengsamuel750@gmail.com]
